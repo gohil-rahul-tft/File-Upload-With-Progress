@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit File Upload</string>
+
+    <!-- ImageUpload -->
+    <string name="upload_image">Upload image</string>
+    <string name="upload_pdf">Upload PDF</string>
+</resources>
